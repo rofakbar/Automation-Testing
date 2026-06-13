@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Tulis deskripsi ruangan</name>
+   <tag></tag>
+   <elementGuidId>5cc2d960-e09b-4971-9b7c-20df0213ae12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;deskripsi&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'deskripsi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>5fcc2d45-f544-4e55-9878-91ea5c8de6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>25433734-89ac-4bf4-89bc-d506f0120ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>ad23b441-e25f-465b-a1ac-2499a5d6c41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>bd185c1d-ffce-4ffa-ae31-3605b2cbb59b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tulis deskripsi ruangan...</value>
+      <webElementGuid>041c67f6-6111-4be8-882b-822df5c527b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruangan dengan Ac dan Smart TV</value>
+      <webElementGuid>66a9bbe4-0ddc-413a-8874-11af3e4121cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8fa3842923d673873003c76a13be2977</value>
+      <webElementGuid>5c39d245-1e05-41f4-8822-41a52aae0ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'deskripsi']</value>
+      <webElementGuid>966d1878-e51d-4053-bba1-eea22fd489bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'deskripsi']</value>
+      <webElementGuid>ae00b6ce-d0bd-4cba-a743-7663249f3db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'deskripsi' and @placeholder = 'Tulis deskripsi ruangan...' and (text() = 'Ruangan dengan Ac dan Smart TV' or . = 'Ruangan dengan Ac dan Smart TV')]</value>
+      <webElementGuid>9b14143e-52a2-44f0-b6ea-53a1a75e00e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
