@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_kapasitas_min</name>
+   <name>button_togglePassword</name>
    <tag></tag>
-   <elementGuidId>9b678fc3-0a4b-45f6-9ff2-c74999994236</elementGuidId>
+   <elementGuidId>1103b45b-3bb5-4c65-b2a7-df6ac210675b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;kapasitas_min&quot;]</value>
+         <value>#togglePassword</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'kapasitas_min']</value>
+         <value>//*[@id = 'togglePassword']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>6bfb0c16-eabc-46c5-9ff9-f83699babe61</webElementGuid>
+      <value>button</value>
+      <webElementGuid>583553f0-1b44-4356-abec-71029aa9dcb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>e9633b68-9a63-4b87-a27b-d965afcb51a4</webElementGuid>
+      <value>button</value>
+      <webElementGuid>f2e057d0-18ac-4905-abf4-c16f91d29083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>kapasitas_min</value>
-      <webElementGuid>ee76d02a-2c7c-4c4f-8dea-ec35fef1603d</webElementGuid>
+      <value>togglePassword</value>
+      <webElementGuid>2c98662c-c2f9-4d9a-a5e1-9d95ae56a393</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>min</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>c4157da0-d1f4-4755-84ad-a1d5f271bbbb</webElementGuid>
+      <value>toggle-password</value>
+      <webElementGuid>6d297b32-4b42-44f4-b89e-4904c3a3b178</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-734ab87975050b124654017782d7827f</value>
-      <webElementGuid>e3db88e8-4319-49dd-91b5-b48849aa080a</webElementGuid>
+      <value>md5.v1-e9b47799dd466ee4b08b61dcb714f39c</value>
+      <webElementGuid>52658770-fa06-4b11-b7c3-50f6c6e3f947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>7a4abb9e-3f96-4e95-b16c-75c5abe992c7</webElementGuid>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>e97a814e-d212-4bdd-9245-4e69d8dc45b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>d0e763ff-59a4-4a10-a59e-914e51583df3</webElementGuid>
+      <value>//*[@id = 'togglePassword']</value>
+      <webElementGuid>d7d9f98e-8ab4-4c40-968c-bdd2556b123b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'kapasitas_min']</value>
-      <webElementGuid>008ad840-31fa-4b0a-9275-90b6c21910d2</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'togglePassword']</value>
+      <webElementGuid>1a3b1071-3139-47cc-b531-bb9420f33515</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

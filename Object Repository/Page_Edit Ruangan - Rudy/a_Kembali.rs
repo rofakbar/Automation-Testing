@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_kapasitas_min</name>
+   <name>a_Kembali</name>
    <tag></tag>
-   <elementGuidId>9b678fc3-0a4b-45f6-9ff2-c74999994236</elementGuidId>
+   <elementGuidId>396d2894-e37b-4d78-8e07-f5293de97d42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;kapasitas_min&quot;]</value>
+         <value>.btn-add</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'kapasitas_min']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>6bfb0c16-eabc-46c5-9ff9-f83699babe61</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>number</value>
-      <webElementGuid>e9633b68-9a63-4b87-a27b-d965afcb51a4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>kapasitas_min</value>
-      <webElementGuid>ee76d02a-2c7c-4c4f-8dea-ec35fef1603d</webElementGuid>
+      <value>a</value>
+      <webElementGuid>4a419ae5-1d93-4303-bc8e-4bc8a7209390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>min</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>c4157da0-d1f4-4755-84ad-a1d5f271bbbb</webElementGuid>
+      <value>btn-add</value>
+      <webElementGuid>89596ebb-6bc7-44d6-9033-0bebf9552709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?route=Admin/dataRuangan</value>
+      <webElementGuid>d34dcf95-0adc-4a8e-b865-847e4919008f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali</value>
+      <webElementGuid>a7c5caa8-cdf7-4132-a573-1c7c145755f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-734ab87975050b124654017782d7827f</value>
-      <webElementGuid>e3db88e8-4319-49dd-91b5-b48849aa080a</webElementGuid>
+      <value>md5.v1-8f9571fe0ec66210772d441e27aa1492</value>
+      <webElementGuid>c230c1f4-c197-4079-ad5a-c44bc6d09dde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>7a4abb9e-3f96-4e95-b16c-75c5abe992c7</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
+      <webElementGuid>3e2f88ff-0aad-473b-829c-d73a0242109f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>d0e763ff-59a4-4a10-a59e-914e51583df3</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
+      <webElementGuid>75b585de-0cb9-4147-8c70-86b34d0a75b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'kapasitas_min']</value>
-      <webElementGuid>008ad840-31fa-4b0a-9275-90b6c21910d2</webElementGuid>
+      <value>//a[@href = '?route=Admin/dataRuangan' and (text() = 'Kembali' or . = 'Kembali')]</value>
+      <webElementGuid>90e44b36-46cf-4868-959c-702ec6b2611d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

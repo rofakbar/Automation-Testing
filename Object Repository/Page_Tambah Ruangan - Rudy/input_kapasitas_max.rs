@@ -3,7 +3,7 @@
    <description></description>
    <name>input_kapasitas_max</name>
    <tag></tag>
-   <elementGuidId>4c4f88bb-15b6-4fb4-81e7-819d5115f8e9</elementGuidId>
+   <elementGuidId>6338512b-f8f4-47d4-92e1-fe6f942fd03f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2a788bd7-4059-4a02-b5c2-892ac7222a7c</webElementGuid>
+      <webElementGuid>958d76b8-4a6a-422d-ad13-aa8a5d6ca813</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>b35af6b1-280c-40c7-8eba-2b4521cdd88b</webElementGuid>
+      <webElementGuid>4fa410e4-0642-48f0-a85f-6bddc60b6de7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>kapasitas_max</value>
-      <webElementGuid>8fd301e7-00af-42cb-9bf4-b444ad3d1120</webElementGuid>
+      <webElementGuid>2c74e533-1bfd-4beb-ae6b-bd4b9dcd5d7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>150c42f3-59df-45f4-83f8-a9b1a6d37b14</webElementGuid>
+      <webElementGuid>14d78a54-6404-4183-8299-55180c8a9fc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-83685d551e24e321080b061701350afd</value>
-      <webElementGuid>d4284551-caae-47cb-9d9b-4ab640793ee1</webElementGuid>
+      <webElementGuid>40199196-a410-4ae0-babb-ec2081e40f1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'kapasitas_max']</value>
-      <webElementGuid>0e966683-33d7-4de6-aec2-33e56745edbd</webElementGuid>
+      <webElementGuid>ddbd13c0-dd9e-4b03-b5dc-c9ad605bd78c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'kapasitas_max']</value>
-      <webElementGuid>0c62c301-b17d-4120-9718-6e1e6c464742</webElementGuid>
+      <webElementGuid>16d4b649-c743-4676-885d-97300cf8d841</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'kapasitas_max']</value>
-      <webElementGuid>d10f1fd2-1e4a-4e3d-b95d-46863a8c00ae</webElementGuid>
+      <webElementGuid>9daa99f7-34c2-40f4-9e9b-2e8b5ec8dbc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

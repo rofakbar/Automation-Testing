@@ -3,7 +3,7 @@
    <description></description>
    <name>input_gambar_ruangan</name>
    <tag></tag>
-   <elementGuidId>0cab63be-35c9-4408-b407-11320a9bf5a2</elementGuidId>
+   <elementGuidId>4d0a3160-cc40-4f2c-adad-5e8797f917f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8ca5b5ae-5927-4fb5-847f-7f9ad065f1f4</webElementGuid>
+      <webElementGuid>0981e9b3-75b6-4c5b-a030-5de013629b6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>ea04d33e-8b74-40ba-a327-195a17594187</webElementGuid>
+      <webElementGuid>822c075d-8ff8-47ad-8322-a60b1b304221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>gambar_ruangan</value>
-      <webElementGuid>e5b192ef-b571-4a9b-b67f-5d589d3e67f9</webElementGuid>
+      <webElementGuid>742af624-0f7e-4041-acfb-b817b4f89013</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>7b224a55-9204-4e25-9b76-dbb3362bd85d</webElementGuid>
+      <webElementGuid>355c581e-9097-4662-bdac-b2df8fd283ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>image/*</value>
-      <webElementGuid>b2b63f94-1bfb-4d7f-a2dc-9a7a1096c137</webElementGuid>
+      <webElementGuid>4d319c41-b7a2-42c9-85f5-15b928a6fb73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b2f003205f9a0df5a5c665467f48317b</value>
-      <webElementGuid>ca54aa50-6e94-432b-bda9-f971333fae0f</webElementGuid>
+      <webElementGuid>50ab390b-8d08-4576-abe0-dfc419168b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'gambar_ruangan']</value>
-      <webElementGuid>9b9a847c-cd25-485a-99a9-01bceb6aef55</webElementGuid>
+      <webElementGuid>f9412609-a11e-43b3-a93f-87a0b52decfb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'gambar_ruangan']</value>
-      <webElementGuid>a605ffda-9f44-4172-aa0b-d47cec7c39f8</webElementGuid>
+      <webElementGuid>e0c69717-b073-4841-818e-b1bb5c206215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @name = 'gambar_ruangan']</value>
-      <webElementGuid>d2e143a0-8607-4ecb-8931-69874c3a289c</webElementGuid>
+      <webElementGuid>85a69f82-d2a0-4d74-9044-cea29c220f55</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

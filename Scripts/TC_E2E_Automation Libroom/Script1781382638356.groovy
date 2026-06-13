@@ -19,11 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('http://localhost/pblperpustakaan/')
-
-WebUI.click(findTestObject('Page_Rudy Ruang Study/body_Beranda'))
 
 WebUI.click(findTestObject('Page_Rudy Ruang Study/a_Login'))
 
@@ -33,33 +29,37 @@ WebUI.click(findTestObject('Page_Masuk - Rudy Ruang Study/input_Masukkan Passwor
 
 WebUI.setEncryptedText(findTestObject('Page_Masuk - Rudy Ruang Study/input_Masukkan Password'), '8SQVv/p9jVSetdAvTyxx2A446CoqXiBG')
 
-WebUI.sendKeys(findTestObject('Page_Masuk - Rudy Ruang Study/input_Masukkan Password'), 'Keys.chord(Keys.ENTER)')
+WebUI.click(findTestObject('Page_Masuk - Rudy Ruang Study/button_togglePassword'))
+
+WebUI.click(findTestObject('Page_Masuk - Rudy Ruang Study/button_submit'))
 
 WebUI.click(findTestObject('Page_Dashboard Admin - Rudy/a_Data Ruangan'))
 
 WebUI.click(findTestObject('Page_Data Ruangan - Rudy/button_Tambah Ruangan'))
 
-WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/input_nama_ruangan'), 'Ruangan Ceria')
+WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/input_nama_ruangan'), 'Ruang Ceria')
 
 WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/input_kapasitas_min'), '2')
 
 WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/input_kapasitas_max'), '4')
 
-WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/textarea_Tulis deskripsi ruangan'), 'Ruangan dengan Ac dan Smart TV')
-
-WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/input_gambar_ruangan'), 'C:\\fakepath\\e$kj#w.jpeg')
+WebUI.setText(findTestObject('Page_Tambah Ruangan - Rudy/textarea_Tulis deskripsi ruangan'), 'Ruang dengan AC dan Smart TV')
 
 WebUI.click(findTestObject('Page_Tambah Ruangan - Rudy/button_Simpan'))
 
 WebUI.click(findTestObject('Page_Data Ruangan - Rudy/a_Ubah'))
 
-WebUI.setText(findTestObject('Page_Edit Ruangan - Rudy/input_kapasitas_max'), '8')
-
 WebUI.setText(findTestObject('Page_Edit Ruangan - Rudy/textarea_Tulis deskripsi ruangan'), 'Sedang dalam perbaikan')
+
+WebUI.setText(findTestObject('Page_Edit Ruangan - Rudy/input_kapasitas_max'), '8')
 
 WebUI.selectOptionByValue(findTestObject('Page_Edit Ruangan - Rudy/select_status'), 'Tidak Tersedia', false)
 
 WebUI.click(findTestObject('Page_Edit Ruangan - Rudy/button_Simpan Perubahan'))
+
+WebUI.click(findTestObject('Page_Data Ruangan - Rudy/a_Ubah_1'))
+
+WebUI.click(findTestObject('Page_Edit Ruangan - Rudy/a_Kembali'))
 
 WebUI.click(findTestObject('Page_Data Ruangan - Rudy/button_Hapus'))
 

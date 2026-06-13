@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Hapus</name>
    <tag></tag>
-   <elementGuidId>1e9dfa65-813d-4bea-a475-c699c11214fe</elementGuidId>
+   <elementGuidId>93870ee7-08e1-4b7d-8ab3-6eb1b0db8acc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[data-name=&quot;Ruangan\ Ceria&quot;]</value>
+         <value>[data-name=&quot;Ruang\ Ceria&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@data-name = 'Ruangan Ceria']</value>
+         <value>//*[@data-name = 'Ruang Ceria']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f73aff4a-baa3-4450-aef6-35a0a4c6e6bc</webElementGuid>
+      <webElementGuid>4b3bcffd-ccc8-4dd1-9373-394a82f5cf9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c434106e-fdb6-460e-bcde-08e3ac7f5559</webElementGuid>
+      <webElementGuid>70757109-6e16-4340-9860-d6ddaca11e43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +39,23 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-action btn-delete js-open-delete</value>
-      <webElementGuid>5ea24fbc-776f-444e-9e86-19cd43cd662b</webElementGuid>
+      <webElementGuid>0bc37c55-c14e-4c76-9c0d-4596ec8158a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-id</name>
       <type>Main</type>
-      <value>19</value>
-      <webElementGuid>9cb17427-8de1-4dd5-a983-49b493ee67b0</webElementGuid>
+      <value>21</value>
+      <webElementGuid>e4d46be1-5a3a-4c9d-9ba7-f0535c8e3130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-name</name>
       <type>Main</type>
-      <value>Ruangan Ceria</value>
-      <webElementGuid>acff4864-4ced-47d1-af36-4f75be23a37d</webElementGuid>
+      <value>Ruang Ceria</value>
+      <webElementGuid>319d140b-d5fb-48fd-9972-fdb0d7d3bab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,31 +65,31 @@
       <value>
                     Hapus
                   </value>
-      <webElementGuid>edca3692-c78c-4e2a-9bec-17796a41e5da</webElementGuid>
+      <webElementGuid>6db0ca2e-9b18-4c44-86a1-73d6f71556d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-2cd0b8d3698d6b8222e9c68f26d01d8d</value>
-      <webElementGuid>7c6a1875-7b37-4714-ae23-8b3bc3db49c2</webElementGuid>
+      <value>md5.v1-5370cf51f881593ee2ab0ec37765c052</value>
+      <webElementGuid>3754332b-a78a-4fac-8890-089ae47fb45f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@data-name = 'Ruangan Ceria']</value>
-      <webElementGuid>6befb531-cb58-4876-94b7-9d658653e963</webElementGuid>
+      <value>//*[@data-name = 'Ruang Ceria']</value>
+      <webElementGuid>4eec12ee-79f1-4579-b03a-0df7298b1a2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@data-name = 'Ruangan Ceria']</value>
-      <webElementGuid>dae08618-a164-49df-8bf0-504d06fbd8a8</webElementGuid>
+      <value>//*[@data-name = 'Ruang Ceria']</value>
+      <webElementGuid>40a07e43-44a1-4431-8c6b-a49dd216c1ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
                   ' or . = '
                     Hapus
                   ')]</value>
-      <webElementGuid>b64f3ce9-5f46-43e1-a869-8e9f22075262</webElementGuid>
+      <webElementGuid>6c8a7d39-a7dc-47be-b768-5fe7665d859d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

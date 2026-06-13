@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_kapasitas_min</name>
+   <name>button_submit</name>
    <tag></tag>
-   <elementGuidId>9b678fc3-0a4b-45f6-9ff2-c74999994236</elementGuidId>
+   <elementGuidId>f2b63d37-9e5b-4901-8da4-429a007bc148</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;kapasitas_min&quot;]</value>
+         <value>[name=&quot;submit&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'kapasitas_min']</value>
+         <value>//*[@name = 'submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>6bfb0c16-eabc-46c5-9ff9-f83699babe61</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b142cf98-0d2b-41c3-907b-72e6a313de32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>e9633b68-9a63-4b87-a27b-d965afcb51a4</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>70351c36-e7eb-4faf-9a20-32a9527a0797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>kapasitas_min</value>
-      <webElementGuid>ee76d02a-2c7c-4c4f-8dea-ec35fef1603d</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>131f55a8-f68f-4f85-ae2f-01dd1b819c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>min</name>
+      <name>class</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>c4157da0-d1f4-4755-84ad-a1d5f271bbbb</webElementGuid>
+      <value>btn-login</value>
+      <webElementGuid>5d775046-2b1a-4f85-91e9-359b1c959c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>314a4c70-7b28-43cc-9197-1658c5e63edd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-734ab87975050b124654017782d7827f</value>
-      <webElementGuid>e3db88e8-4319-49dd-91b5-b48849aa080a</webElementGuid>
+      <value>md5.v1-6789be9e64199b0c45de2a671b2269a5</value>
+      <webElementGuid>8cc6cc3f-5bdd-433d-8b64-6bd700bcc202</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>7a4abb9e-3f96-4e95-b16c-75c5abe992c7</webElementGuid>
+      <value>//*[@name = 'submit']</value>
+      <webElementGuid>9d3d23c8-0eff-4207-8c37-b42f1c52324d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'kapasitas_min']</value>
-      <webElementGuid>d0e763ff-59a4-4a10-a59e-914e51583df3</webElementGuid>
+      <value>//*[@name = 'submit']</value>
+      <webElementGuid>7785aea3-21b2-4c14-9377-4b7672bf4348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'kapasitas_min']</value>
-      <webElementGuid>008ad840-31fa-4b0a-9275-90b6c21910d2</webElementGuid>
+      <value>//button[@type = 'submit' and @name = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>6e170a3d-dc21-495a-98f8-150865ca67a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

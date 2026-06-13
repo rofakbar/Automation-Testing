@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Ubah</name>
+   <name>a_Ubah_1</name>
    <tag></tag>
-   <elementGuidId>ee708540-7221-49a8-97b7-930a795a0776</elementGuidId>
+   <elementGuidId>9b429957-1538-4ced-9e00-d700c601aef1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.room-card:nth-child(10) .btn-edit:nth-child(3)</value>
+         <value>.room-card:nth-child(3) .btn-edit:nth-child(3)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4542924e-c57d-4411-99da-4516b3883c16</webElementGuid>
+      <webElementGuid>88f3fc5a-6e58-4102-aad3-fd22ac55667e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-action btn-edit</value>
-      <webElementGuid>7f62ec9a-cfc4-486b-a960-9d80068912c2</webElementGuid>
+      <webElementGuid>2ff80003-3192-45e4-8291-8ba8989f03d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>?route=Admin/editRuangan/21</value>
-      <webElementGuid>cd439d42-b903-424a-a6b9-80b16e99774e</webElementGuid>
+      <webElementGuid>e673e184-6c08-46de-baf4-00b13f09c923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,31 +47,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Ubah</value>
-      <webElementGuid>32871b83-a1e5-4208-8956-c8875de11bb2</webElementGuid>
+      <webElementGuid>1ddfc585-f27a-4db8-86f2-8b04a728f8ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-0281a591acb790bb19b4798fa2e01c28</value>
-      <webElementGuid>e93da197-2e0f-4ba4-8aee-08fbbe278a5c</webElementGuid>
+      <value>md5.v1-ecb21b14baf78b1669ccf442d76beb61</value>
+      <webElementGuid>9bdb0eb9-d7cc-48f7-82ff-6fbeaf08abde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
-      <webElementGuid>d8a38d25-2660-4068-95b3-bb9e26a0084a</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
+      <webElementGuid>5e7845a4-8657-456b-baaa-2480a98ff526</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
-      <webElementGuid>0a286617-bd2a-40cb-b81a-a85a1f31369e</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' room-card ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-edit ') and (position() = 3)]</value>
+      <webElementGuid>96cf8edb-9915-47e0-8f8a-dde38f159832</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '?route=Admin/editRuangan/21' and (text() = 'Ubah' or . = 'Ubah')]</value>
-      <webElementGuid>821514a2-0077-478b-a621-8d02e012c6e8</webElementGuid>
+      <webElementGuid>80beaa6a-1eb2-4221-ae4b-2a0695547b1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

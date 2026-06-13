@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>b48f7f1b-d6ca-4097-a412-4ab047a6f05b</elementGuidId>
+   <elementGuidId>0a56ed77-78c4-4b21-bbb0-2db595fe1fd5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fc5c9257-d2cd-4fa4-9a77-3586d6d5dd80</webElementGuid>
+      <webElementGuid>0f4211c0-4985-44b3-beec-4f8af778604e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>cb40a058-90d8-4a20-adce-970e9b625e3c</webElementGuid>
+      <webElementGuid>9cf1af3e-2142-41fa-b0c0-8a6bb1639009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-pill btn-save</value>
-      <webElementGuid>217be1f7-3ea1-47c2-8890-4b4372e4fed6</webElementGuid>
+      <webElementGuid>6380ef21-79b7-425c-9d1e-e53aa7dc60d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>91a1c5d2-7871-473f-9dd9-6e59423658eb</webElementGuid>
+      <webElementGuid>42b42e4a-7533-47f0-b7b1-b554eed01f77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-6c444c0dd8b6d2ade5e0b4442a90af26</value>
-      <webElementGuid>934345ac-c1e7-4811-bfe4-9ecb22c9c371</webElementGuid>
+      <webElementGuid>86d13150-5a56-40a2-85c9-1aa74d064518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-save ')]</value>
-      <webElementGuid>8add9b61-4dfe-4843-a6ca-788c753c0957</webElementGuid>
+      <webElementGuid>1cf7826c-12b1-438b-af2f-de1cb5064da9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-save ')]</value>
-      <webElementGuid>0fbab1f0-ab3e-4c72-8f53-07be64a95011</webElementGuid>
+      <webElementGuid>1452a0e8-3ae9-4eb1-9d77-33ffeb34b26f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>d0bfe436-cf35-4d43-83f2-ef7ce9b81fbc</webElementGuid>
+      <webElementGuid>b1a8704c-a7ce-4754-b4e6-0c78b6899e2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

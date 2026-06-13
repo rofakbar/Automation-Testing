@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Tambah Ruangan</name>
    <tag></tag>
-   <elementGuidId>4f1efafd-e950-4eba-b4b8-9f425f6e012f</elementGuidId>
+   <elementGuidId>0692fe03-702e-4a23-a212-757efe21aa4a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>233079b3-b1ad-40aa-b10b-8c96e592bed3</webElementGuid>
+      <webElementGuid>bec2ab5a-f4a3-4bcc-893a-10ac1159854a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-add</value>
-      <webElementGuid>fcdd171f-bc18-4249-9926-6723a6bf5a28</webElementGuid>
+      <webElementGuid>f0f35fbc-3d9e-47ab-b86a-ad8cfbdcc2c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4678af8c-f6ae-44f3-8dae-0ea0e9a6cd8b</webElementGuid>
+      <webElementGuid>b39b991f-ae1e-4800-988c-64605eed2b66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>window.location='?route=Admin/addRuangan'</value>
-      <webElementGuid>f8f822e8-e602-45f3-b78e-8dd4c744f30d</webElementGuid>
+      <webElementGuid>c2974453-3988-49eb-974f-0c85521beed8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tambah Ruangan</value>
-      <webElementGuid>88dbd70d-820f-4c7c-bccc-d7e1e9a3d4b0</webElementGuid>
+      <webElementGuid>071118f7-b1cc-4cba-bc7f-fa5a5befa8dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8f9571fe0ec66210772d441e27aa1492</value>
-      <webElementGuid>5dc819ea-a171-4166-9ba5-5ac0c408e2b0</webElementGuid>
+      <webElementGuid>210b7597-86a3-4f83-a913-8e7cc89124ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
-      <webElementGuid>01dd395b-668f-48cc-8b66-347d5ddd383d</webElementGuid>
+      <webElementGuid>91081d59-4081-464d-a9f0-52ce71bfa4fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
-      <webElementGuid>c38d782c-a8c4-42ac-8f2a-cda4593e5572</webElementGuid>
+      <webElementGuid>ca60dbc7-0836-409d-80d3-0112f1f56c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Tambah Ruangan' or . = 'Tambah Ruangan')]</value>
-      <webElementGuid>8daea7ac-fbff-4413-857f-13f260ebe842</webElementGuid>
+      <webElementGuid>881f9046-07da-41a2-bb54-bf4f78f8397b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

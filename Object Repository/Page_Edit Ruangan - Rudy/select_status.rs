@@ -3,7 +3,7 @@
    <description></description>
    <name>select_status</name>
    <tag></tag>
-   <elementGuidId>735eac94-689e-4511-b2ff-4f791a793e7d</elementGuidId>
+   <elementGuidId>b7a1a78b-3d4d-487e-b684-0c922d34a79c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>aac6d382-549e-4057-b59e-5090488966b0</webElementGuid>
+      <webElementGuid>095559d5-133c-42fd-8a52-49ea8badc805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>ff0d2f31-da09-48c4-aebe-5fbe28fc2850</webElementGuid>
+      <webElementGuid>87fa5a67-12dc-4353-b650-c9e8ee215417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b980c343-2bce-456f-960d-dd8b2a4ff463</webElementGuid>
+      <webElementGuid>57eb86e9-f60c-4121-bfb0-96ecb77ef247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         Tersedia
         Tidak Tersedia
     </value>
-      <webElementGuid>79d0ad3f-08a4-4738-adb7-821b2e7348ae</webElementGuid>
+      <webElementGuid>b6244cb8-c0eb-4f42-9de9-a208834b8578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a24b3d9cf1922bf80e11d57a029cb2aa</value>
-      <webElementGuid>f31c1b66-6017-41b6-bcd8-ee8c91f2010e</webElementGuid>
+      <webElementGuid>111b4bf7-9354-4691-9c83-2911120df55d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'status']</value>
-      <webElementGuid>e0fd4d3e-b4a2-46a1-9ce4-8a83a25bf16c</webElementGuid>
+      <webElementGuid>a61932e3-cf5a-4489-8d5e-a774d122606b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'status']</value>
-      <webElementGuid>67bc2565-2810-4fa2-bfe8-7db93169d7da</webElementGuid>
+      <webElementGuid>348fbf10-1357-4337-853d-8e9e8eba8fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,6 +88,6 @@
         Tersedia
         Tidak Tersedia
     ')]</value>
-      <webElementGuid>ca3baf0c-1482-49df-8102-1f633d8baad7</webElementGuid>
+      <webElementGuid>0ac08cb6-8f96-4c95-ba42-16e6a39f90be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

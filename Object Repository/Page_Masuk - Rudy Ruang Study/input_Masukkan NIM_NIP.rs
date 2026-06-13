@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Masukkan NIM_NIP</name>
    <tag></tag>
-   <elementGuidId>7249e61a-b76d-4060-ac53-651c95dc4358</elementGuidId>
+   <elementGuidId>b632a4e7-8cb3-4b8f-93d1-cd34da5b5843</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>316e7fac-4c74-497e-a00b-15057daa2b4f</webElementGuid>
+      <webElementGuid>bc05f5a4-a397-43a9-ba0c-bccf1f9827f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nim</value>
-      <webElementGuid>af47262f-828f-4ee6-ae46-bda675193cb8</webElementGuid>
+      <webElementGuid>65b73011-2641-4d95-8b65-6f60af4cfb1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3e77efc1-0316-4199-8b85-2eebf60045dc</webElementGuid>
+      <webElementGuid>dfc96f7b-c83d-4352-9439-5652f479e613</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>59f822fc-f67f-4c61-b397-9cf1fae46c48</webElementGuid>
+      <webElementGuid>d160f77b-8e75-497f-ba02-edd94f4f0631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f2d97ee8-8fd0-4c8e-a167-b530ae7f3ad2</webElementGuid>
+      <webElementGuid>0e023e6e-beae-47f7-b6f1-361dbc40b87b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan NIM/NIP...</value>
-      <webElementGuid>aff82472-abc2-48e9-a50c-29cf8e6d0e52</webElementGuid>
+      <webElementGuid>607dea37-5e43-4a53-8fe6-e65df240adc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>93e7960d-3652-4ec9-aee6-1847af11b60f</webElementGuid>
+      <webElementGuid>5f85c114-ec9b-4311-a08d-f2d5fd7c7cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1f01e2632059a02756dbe77d4b9c493b</value>
-      <webElementGuid>1d48df8f-8019-479b-89a1-565caebd7d99</webElementGuid>
+      <webElementGuid>0fbe96d8-2cff-4fc3-990d-9ff792556c7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'nim']</value>
-      <webElementGuid>4b685cea-a6ed-4e4d-b901-e9ea8831f87c</webElementGuid>
+      <webElementGuid>f89f2186-2472-487a-9174-6b3d69f6e28f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'nim']</value>
-      <webElementGuid>da30a42a-9cc3-47d1-a7df-6e645d1994eb</webElementGuid>
+      <webElementGuid>098c750d-8787-4b12-9050-2ed69e8947d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'nim' and @type = 'text' and @name = 'username' and @placeholder = 'Masukkan NIM/NIP...']</value>
-      <webElementGuid>f69b834e-51ab-4fb2-8963-1bf4897a8872</webElementGuid>
+      <webElementGuid>e9e34069-731d-4249-a105-0d23ae50b0a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

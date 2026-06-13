@@ -3,7 +3,7 @@
    <description></description>
    <name>input_nama_ruangan</name>
    <tag></tag>
-   <elementGuidId>7fca145a-e930-43d1-9c51-e28b8ae44208</elementGuidId>
+   <elementGuidId>9557aba7-4ce7-4af9-a494-f47b42c75ed4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0a88bca2-44d0-474b-bf04-a9d3033d3946</webElementGuid>
+      <webElementGuid>2115bd90-6d88-4a88-97aa-13a96ca49f71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b152e08c-2ea2-4bb7-9d6d-21dee40cd17f</webElementGuid>
+      <webElementGuid>6fc87e40-6914-498f-9a99-bd98e77c5a12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>nama_ruangan</value>
-      <webElementGuid>a69aa763-a3e9-4731-8ede-e471ef5aebd8</webElementGuid>
+      <webElementGuid>ee9ec20c-b363-4328-aff3-9ff7c0bd79e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-5f818549e8e7a339c84af28703527c31</value>
-      <webElementGuid>8ff2a5fe-dd88-4f88-acf1-a0e400703977</webElementGuid>
+      <webElementGuid>47839281-4c07-4951-8d9d-5a1a53e3d176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'nama_ruangan']</value>
-      <webElementGuid>a64ea04e-334d-4512-8c46-7dc52323a0af</webElementGuid>
+      <webElementGuid>5a8506cc-374f-4867-b96d-02ec1ce9be2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'nama_ruangan']</value>
-      <webElementGuid>d126d5d9-013b-4c35-a8ce-05b49056c2af</webElementGuid>
+      <webElementGuid>1291ffec-7e4c-497b-8ffd-cf53b7e50d8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +71,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'nama_ruangan']</value>
-      <webElementGuid>cd6e6802-5d74-4991-92b8-2a9b1777c447</webElementGuid>
+      <webElementGuid>34c0c7d6-c1f2-4089-bf48-534b1000701e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

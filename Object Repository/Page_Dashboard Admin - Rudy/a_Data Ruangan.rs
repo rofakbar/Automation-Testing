@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Data Ruangan</name>
    <tag></tag>
-   <elementGuidId>43ce1fe7-1d0e-4513-9b6d-e5f8456c5eb8</elementGuidId>
+   <elementGuidId>a6c82e40-f8af-40d8-a504-d09a235107e5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2c9ac457-2e98-46f9-bc02-dcdcf0eebae7</webElementGuid>
+      <webElementGuid>85f54247-be94-4fb9-8f21-588d897eb5af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>?route=Admin/dataRuangan</value>
-      <webElementGuid>a8e55c5c-79de-488e-ada5-454a52a73a0f</webElementGuid>
+      <webElementGuid>6872abbf-2c06-4d72-b5a0-fdca903330ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <value>
          Data Ruangan
       </value>
-      <webElementGuid>94b1632a-235d-431d-8311-74fac74fced7</webElementGuid>
+      <webElementGuid>8df2ca69-0518-4d43-8f89-360116ce31b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ee44a6afc527c3607d169bbff873ba20</value>
-      <webElementGuid>bad7c6c0-b2a5-42a4-bfaa-6d0d16bde429</webElementGuid>
+      <webElementGuid>1d8218fc-85ea-4f3b-909d-b0755b129c24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '?route=Admin/dataRuangan']</value>
-      <webElementGuid>bf7672d0-7a0a-4296-8813-139e0e5c11b3</webElementGuid>
+      <webElementGuid>9158732c-2d17-4a34-80a9-1c8f4e447d50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '?route=Admin/dataRuangan']</value>
-      <webElementGuid>ac162d19-beea-4e14-a098-429a35359a0b</webElementGuid>
+      <webElementGuid>a350db16-96e3-44cd-bfb0-3ba0a59c34df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       ' or . = '
          Data Ruangan
       ')]</value>
-      <webElementGuid>67872833-3a24-41ab-9e15-f5a9ae31a5fb</webElementGuid>
+      <webElementGuid>e3c3d1fa-39aa-45bb-8ce9-c1a55c8fb686</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

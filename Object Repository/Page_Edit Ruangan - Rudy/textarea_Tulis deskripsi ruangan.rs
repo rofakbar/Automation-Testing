@@ -3,7 +3,7 @@
    <description></description>
    <name>textarea_Tulis deskripsi ruangan</name>
    <tag></tag>
-   <elementGuidId>5cc2d960-e09b-4971-9b7c-20df0213ae12</elementGuidId>
+   <elementGuidId>efbb37bc-4763-4fac-8078-c21c79a1f470</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>5fcc2d45-f544-4e55-9878-91ea5c8de6d9</webElementGuid>
+      <webElementGuid>e08f022f-393e-4e0f-9977-f155816a2d73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>deskripsi</value>
-      <webElementGuid>25433734-89ac-4bf4-89bc-d506f0120ac4</webElementGuid>
+      <webElementGuid>c51c2177-15ba-4139-8515-476d1cdc1753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ad23b441-e25f-465b-a1ac-2499a5d6c41d</webElementGuid>
+      <webElementGuid>7f4a22a4-4ac0-4286-ad07-f0aa594d1ce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>bd185c1d-ffce-4ffa-ae31-3605b2cbb59b</webElementGuid>
+      <webElementGuid>0b57f69a-8a4c-4b01-ad4f-c5baa37f70d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,15 +55,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tulis deskripsi ruangan...</value>
-      <webElementGuid>041c67f6-6111-4be8-882b-822df5c527b9</webElementGuid>
+      <webElementGuid>d99c844a-d473-4bc5-9b68-b53b711645bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ruangan dengan Ac dan Smart TV</value>
-      <webElementGuid>66a9bbe4-0ddc-413a-8874-11af3e4121cb</webElementGuid>
+      <value>Ruang dengan AC dan Smart TV</value>
+      <webElementGuid>0e414101-f155-4b76-934c-2b8ce498abd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8fa3842923d673873003c76a13be2977</value>
-      <webElementGuid>5c39d245-1e05-41f4-8822-41a52aae0ab3</webElementGuid>
+      <webElementGuid>0a0cf25d-9c07-413b-9d52-ee658286b221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'deskripsi']</value>
-      <webElementGuid>966d1878-e51d-4053-bba1-eea22fd489bc</webElementGuid>
+      <webElementGuid>a9584651-f493-48c4-b2d4-3b35ce4978a7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,14 +87,14 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'deskripsi']</value>
-      <webElementGuid>ae00b6ce-d0bd-4cba-a743-7663249f3db0</webElementGuid>
+      <webElementGuid>3bbbbc42-35e6-4e5e-a905-99843845b575</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@name = 'deskripsi' and @placeholder = 'Tulis deskripsi ruangan...' and (text() = 'Ruangan dengan Ac dan Smart TV' or . = 'Ruangan dengan Ac dan Smart TV')]</value>
-      <webElementGuid>9b14143e-52a2-44f0-b6ea-53a1a75e00e9</webElementGuid>
+      <value>//textarea[@name = 'deskripsi' and @placeholder = 'Tulis deskripsi ruangan...' and (text() = 'Ruang dengan AC dan Smart TV' or . = 'Ruang dengan AC dan Smart TV')]</value>
+      <webElementGuid>4b10fa01-a9eb-43dd-9cd0-10737d860131</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

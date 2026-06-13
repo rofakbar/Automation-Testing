@@ -3,7 +3,7 @@
    <description></description>
    <name>textarea_Tulis deskripsi ruangan</name>
    <tag></tag>
-   <elementGuidId>29cfc51e-e9ae-427b-a365-827f1aec62fe</elementGuidId>
+   <elementGuidId>98a20334-5dc3-463c-b38b-a9e534c6ffdc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>f0037266-c4a1-400e-818e-71fe8ee3d7ed</webElementGuid>
+      <webElementGuid>181ee1cf-eb57-45e5-aadf-06ece7f2615b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>deskripsi</value>
-      <webElementGuid>b3efe599-0491-4139-bb2e-83d0b9aabcd5</webElementGuid>
+      <webElementGuid>2c30eda1-3973-4f34-b191-0311060712f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>1d164700-dbd3-45ed-aeb1-5bc63238fbe5</webElementGuid>
+      <webElementGuid>c9592e3b-a01b-4aa7-9cc1-da2dbef7827e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tulis deskripsi ruangan...</value>
-      <webElementGuid>e84d9eb8-ba63-445b-a11b-d10c1ea1d8ba</webElementGuid>
+      <webElementGuid>0b470e40-45b5-4e2f-84a4-199a4d1b90b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8fa3842923d673873003c76a13be2977</value>
-      <webElementGuid>db537552-3011-4ac1-933e-f54dc477d208</webElementGuid>
+      <webElementGuid>b08cd6e9-902f-4821-90af-3292533008c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'deskripsi']</value>
-      <webElementGuid>0e802505-9753-4d4c-a034-1d7818ce35b1</webElementGuid>
+      <webElementGuid>84ca349e-04e9-4111-a634-0bbe7ddaa9aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'deskripsi']</value>
-      <webElementGuid>7d7b64ca-eb0e-4ff9-88d7-018c08d0cf5d</webElementGuid>
+      <webElementGuid>16c84ac5-40c6-45d7-8096-640a9408fb25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'deskripsi' and @placeholder = 'Tulis deskripsi ruangan...']</value>
-      <webElementGuid>adc54bcc-3a14-45d9-be97-06e3bac42c07</webElementGuid>
+      <webElementGuid>31a02b67-e3a5-43bd-930b-1168f3fcfa98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

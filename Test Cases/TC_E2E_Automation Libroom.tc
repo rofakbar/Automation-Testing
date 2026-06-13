@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Automation testing modul CRUD data ruangan</description>
-   <name>TC_E2E_CRUD_Libroom</name>
+   <description>Automation CRUD data ruangan</description>
+   <name>TC_E2E_Automation Libroom</name>
    <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b60f8ee3-85fd-43ea-b95d-e85c15a07f9a</testCaseGuid>
+   <testCaseGuid>d5fcde21-559a-4be3-ade4-cca350b4f5bf</testCaseGuid>
 </TestCaseEntity>
